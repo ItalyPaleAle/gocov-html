@@ -21,7 +21,7 @@
 package cov
 
 const (
-	ProjectUrl = "https://github.com/matm/gocov-html"
+	ProjectUrl = "https://github.com/ItalyPaleAle/gocov-html"
 	htmlHeader = `<html>
     <head>
         <title>Coverage Report</title>

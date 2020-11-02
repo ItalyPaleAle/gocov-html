@@ -5,14 +5,14 @@ This is a simple helper tool for generating HTML output from
 
 Here is a screenshot:
 
-![HTML coverage report screenshot](https://github.com/matm/gocov-html/blob/master/gocovh-html.png)
+![HTML coverage report screenshot](https://github.com/ItalyPaleAle/gocov-html/blob/master/gocovh-html.png)
 
 ## Installation
 
 Just type the following to install the program and its dependencies:
 ```
 $ go get github.com/axw/gocov/gocov
-$ go get github.com/matm/gocov-html
+$ go get github.com/ItalyPaleAle/gocov-html
 ```
 
 ## Usage
